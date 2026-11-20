@@ -8,6 +8,7 @@ __pycache__/
 # ---- PyInstaller 构建产物 ----
 build/
 dist/
+release/
 *.spec
 
 # ---- 运行时自动生成的配置（含本地选手/预设，不入库）----
